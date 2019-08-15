@@ -17,4 +17,3 @@ Social:
 - [LinkedIn](https://www.linkedin.com/in/edson-ayllon/)
 - [Instagram](https://www.instagram.com/edsonrayllon/)
 - [Twitch](https://www.twitch.tv/edson6)
-- Telegram: @edsonayllon
