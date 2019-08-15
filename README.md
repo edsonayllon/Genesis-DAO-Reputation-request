@@ -8,6 +8,7 @@ My name is Edson Ayllon, founder of The Pennsylvania State University's Blockcha
 
 I would like to participate in the Genesis DAO, namely to integrate Bounties Network actions to the DAOstack's Alchemy.
 
+Social-Identity Verification Tweet #SIVT: https://twitter.com/relativeread/status/1161830008316452864.
 
 Social:
 
